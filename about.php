@@ -23,8 +23,8 @@
         $mail->Host = 'smtp.gmail.com';
         $mail->Port = 587;
 
-        $mail->Username = 'olabayo.segun.e@gmail.com';
-        $mail->Password = 'Oluwasegun12';
+        $mail->Username = 'tester@gmail.com';
+        $mail->Password = '*********';
 
         $mail->setFrom('hollasheg@gmail.com');
         $mail->addAddress('hollasheg@gmail.com');
